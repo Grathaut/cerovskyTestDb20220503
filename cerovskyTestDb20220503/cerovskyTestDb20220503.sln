@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cerovskyTestDb20220503", "cerovskyTestDb20220503\cerovskyTestDb20220503.csproj", "{91FD7EC9-2E5C-41F4-AAE9-117255B340E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91FD7EC9-2E5C-41F4-AAE9-117255B340E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FD7EC9-2E5C-41F4-AAE9-117255B340E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FD7EC9-2E5C-41F4-AAE9-117255B340E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FD7EC9-2E5C-41F4-AAE9-117255B340E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E43A1A0-5B2A-412F-9E82-EB651A3D6142}
+	EndGlobalSection
+EndGlobal
